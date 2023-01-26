@@ -28,7 +28,7 @@
     "@actions/core": "^1.6.0"
   },
   "devDependencies": {
-    "@vercel/ncc": "^0.33.3",
+    "@vercel/ncc": "^0.36.1",
     "jest": "^27.5.1",
     "nock": "^13.2.4",
     "semistandard": "^16.0.0"
